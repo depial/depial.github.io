@@ -1,6 +1,4 @@
-# <div style="text-align: center;">The Learning Game</div>
-
-<div style="page-break-after: always;"></div>
+# The Learning Game
 
 ## Contents
 
@@ -8,9 +6,7 @@
 - [Part I - The Rules](#part-i---the-rules)
     - [Chapter 1 - Structure](#chapter-1---structure)
 
-<div class="page"/>
-
-## **<div style="text-align: center;">Introduction - The Pieces</div>**
+## **Introduction - The Pieces**
 
 Since we are talking about learning, the pieces of the game can only be information. A little anticlimactic, but there it is. At least I didn't lead you on too much. In what lies ahead, I'll be trying to convey some bits of information (which make up my perspective on the game) in the best manner I can muster. In doing this, I find it hard to decide which point of view to write in: first person plural (i.e. We), first person singular (i.e. I), second person singular (i.e. You), etc. All of them have benefits and drawbacks. For example, first person plural has the benefit of being inclusive, since we're all in this together, right? However, it also can come off as morally imperialistic, since it could be understood to mean that it is taken for granted that everyone would agree immediately upon hearing what is shared. First person singular has the benefit of being more easily seen in a morally relative light, meaning it's easier to understand it as a personal opinion which need not apply to anyone other than the person sharing it. However, it also can more easily end up contributing to the confusion between the message and the messenger (possibly resulting the unnecessary lionization and/or demonization of said messenger). The problem is particularly difficult to resolve in a general manner since each person, with their unique proclivities, will naturally gravitate towards one interpretation or the other, while even changing affinity from page to page. In the end, I would hope that you can try to keep in mind that I'm only trying to explain one perspective, which is still evolving, and not some absolute truth which is static in time, I think. To help absorb this, I would like to invite readers to consider the following:
 
@@ -68,11 +64,11 @@ The interplay above, between options which seem to be mutually exclusive, will p
 
 <div class="page"/>
 
-## <div style="text-align: center;">Part I - The Rules</div>
+## Part I - The Rules
 
 Clearly, if we are to play the game, the next thing we'll need are some rules to play by. Fortunately, we instinctively know them from birth, but, unfortunately, they often become muddled over time and sometimes outright forgotten or ritualized over. Luckily they are very simple. In fact, there's just one main rule:
 
-***<div align="center">Separation is impossibile</div>***
+***Separation is impossibile***
 
 Now that we have that vague, and likely \*bemusing, rule definition out of the way, we might want to look into some of the particulars to clarify what's actually going on. We'll be working with a "concrete" example, and an "abstract" one, and some of the details could get somewhat technicalish. When I find myself in this situation, I often aim for seeing the forest for the trees first by skimming the details to catch the wider picture, then going back in for more detail. For example, once I was learning a language and I was trying to understand every word in a book. The going was slow, but, while I was picking up vocabulary and grammar, I noticed I didn't have a good idea what the storyline of the book was. One day I lost my place and decided to read more quickly, skipping over any words I didn't quite understand (without ignoring them), until I got back to where I had left off. When I got there, I continued in this fashion and found that, even without understanding every word, I was getting the gist of the book. That said, I can only do this when I have already attained a certain level of familiarity with the subject, and reading word-by-word may be necessary at the beginning of any study. I just don't make it a habit which continues on, because habits are nasty little things, rigid and unexpressive to their core.
 
@@ -93,9 +89,7 @@ Carry on.
 
 </details>
 
-<div class="page"/>
-
-### **<div style="text-align: center;">Chapter 1 - Structure</div>**
+### **Chapter 1 - Structure**
 
 As we're talking about a learning game, it might be helpful to lay out the structure of what we are learning: information. This structure is quite general and revolves around the states of dichotomies, which the perceived world appears to be made up of. The two examples we'll be working with are the "Wanderer" and the "Point to Line". I feel like most people would say the former is a concrete example, since it relates to the "real world", and the latter is an abstract one. However, I feel this is backwards, since the former example feels like it has a façade over a more fundamental structure and this structure is shown more clearly by the "bare bones" latter example. But you say potato, I say potato...
 
@@ -131,8 +125,6 @@ For the voyager example, the identifications might seem a bit more contrived. To
 
 Upon further inspection, we will see that this splits into four states of learning. Each of these states could be typified by a logical operator:
 
-<div align="center">
-
 | Phase |         Name           | Logic |
 |:-----:|:----------------------:|:-----:|
 |  1    |  Concrete Singularity  |  NOR  |
@@ -141,8 +133,6 @@ Upon further inspection, we will see that this splits into four states of learni
 |  4    |  Abstract Singularity  |  AND  |
 
 Table 1.1 - States/Phases of learning
-
-</div>
 
 <details>
 <summary id="a-brief-word-on-logical-operators">A Brief Word on Logical Operators</summary>
@@ -159,8 +149,6 @@ However, the OR operator doesn't have a single word equivalent in colloquial Eng
 
 So these can be thought of as the eXclusive OR and the inclusive OR, respectively. With this in mind, be careful when offering a logician Option A or Option B, as they may take both. Actually, I suppose jerks might also take both, without even knowing the logic, so it's probably best to be on your toes at all times, but I digress... Below, are the truth tables for these operations and understanding them could be helpful. However, it's not necessary, so don't worry if this is a bit over your head. If this is new for you, you can think of the colloquial terms and imagine the *1* to mean inclusion and the *0* to mean exclusion, and the *T/F* indicates the truth of the statement for that case.
 
-<div align="center">
-
 |  A  |  B  | A NOR B | A XOR B |  A OR B | A AND B |
 |:---:|:---:|:-------:|:-------:|:-------:|:-------:|
 |  0  |  0  |    T    |    F    |    F    |    F    |
@@ -169,8 +157,6 @@ So these can be thought of as the eXclusive OR and the inclusive OR, respectivel
 |  1  |  1  |    F    |    F    |    T    |    T    |
 
 Table 1.2 - Truth tables for different phases of learning
-
-</div>
 
 For example, we have A NOR B only being true when A and B are 0, which is to say, when neither A nor B are included. On the other end A and B is true only when, happily, A and B are included. There are actually 16 of these tables for two items (with only four shown here), each with a distinct "meaning", but we'll use just these four as representatives for what I see as four groups of four.
 
