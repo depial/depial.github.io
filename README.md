@@ -36,9 +36,10 @@ The mutually inclusive phase is where true tolerance is found. Differing perspec
 
 I describe these as phases, and they proceed in the order given. As far as I know, there is no way to skip a phase, which makes it akin to a learning experience, and, as such, no phase is "better" or "more correct" than any other. They just need to be worked through like you have been learning throughout your life (assuming you're willing to move ahead anyway). Most interestingly of all, in the end, when taken as a whole, they can be called upon and used flexibly if and when a situation calls for them. In other words, they become tools in our interaction toolbox, rather than something we rigidly identify with, and this point can only be reached by appreciating every step.
 
-<a href="#phases-of-perspectives">Top of Phases of Perspectives</a>
+[Top of Phases of Perspectives]("#phases-of-perspectives")
 </details>
 
+  
 <details>
 <summary id=confirmation-bias>Confirmation Bias</summary>
 
@@ -55,14 +56,12 @@ It's worth pointing out that perspectives are, in general, not the monolithic id
 
 We can also note that the beginning of the process is a (blurry) reflection of the end, where what was intuitive understanding gets backed up with intellectual understanding. For example, children are inherently curious, but this general curiosity tends to wane (perhaps to becoming more specialized), being replaced by fear, until it starts to re-emerge, largely through conscious effort, once again near the end of the process. An image of a pendulum comes to mind, where one swing takes us from the start to the finish, and we are learning along the trajectory, so we end up in the same place, but with the experience of the voyage.
 
-<a href="#confirmation-bias">Top of Confirmation Bias</a>
+[Top of Confirmation Bias]("#confirmation-bias")
 </details>
 
 If you've skipped the cubby-holes, the two points above can be taken on faith, but only for now. Often we have to start with an assertion before breaking it down and thoroughly examining it to finally arrive at an independent understanding. By the end of the first section, these points may become clear enough to the extent that they can be taken or rejected upon critical examination. If you read the whole thing, perhaps you'll be able to explore and find the full depth of the concepts behind these terse examples. If so, great! No promises though... It's taken me a lifetime to marginally clarify these things for myself and I'm still actively exploring. Work cannot be received, it must be done.
 
 The interplay above, between options which seem to be mutually exclusive, will play out throughout this book, and their resolution is, therefore, of particular interest. For this reason, I won't be using one point of view or the other exclusively, since I haven't found this to be the answer, and I will try to find their resolution in their union. Hopefully we'll discover this resolution together, but in the meantime, please keep in mind that I intend to be inclusive without being imperialistic, and try to think of everything as an invitation to consider something with aspects which may or may not be able to augment your worldview, and try not to see it as an attempt at a wholesale replacement of it. Also, try not to accept *or* reject things without any critical consideration. Put your thinking caps on... Or your VR goggles. As you wish, but I can't guarantee the latter will have the intended effect.
-
-<div class="page"/>
 
 ## Part I - The Rules
 
@@ -160,7 +159,7 @@ Table 1.2 - Truth tables for different phases of learning
 
 For example, we have A NOR B only being true when A and B are 0, which is to say, when neither A nor B are included. On the other end A and B is true only when, happily, A and B are included. There are actually 16 of these tables for two items (with only four shown here), each with a distinct "meaning", but we'll use just these four as representatives for what I see as four groups of four.
 
-<a href="#a-brief-word-on-logical-operators">Top of A Brief Word on Logical Operators</a>
+[Top of A Brief Word on Logical Operators]("#a-brief-word-on-logical-operators")
 </details>
 
 I've introduced some new terminology for paradox and superposition, which is intended to be a bit more general. A singularity is meant to describe the inseparable union of two concepts. 
